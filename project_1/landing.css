@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+}
+header  {
+    background-color: #1f2947;
+    color: #f9faf8;
+}
+.headdiv {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 20px;
+}
+header h2 {
+    background-color: #f9faf8;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+header .topmenu {
+    color: #f9faf8;
+    text-decoration: none;
+}
+.headdivb {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.greeting {
+    background-color: antiquewhite;
+    margin: 0px;
+}
+.greeting h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.profileimage {
+
+}
+.menu {
+    background-color: #f9faf8;
+}
+.quote {
+    background-color: #e5e7eb;
+}
+.cta {
+    background-color: #f9faf8;
+}
+footer {
+    background-color: #1f2947;           
+}
